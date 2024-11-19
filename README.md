@@ -24,5 +24,5 @@ Contributing:
 Contributions are welcome! Please open an issue or submit a pull request.
 
 Acknowledgments:  
-Pomodoro Technique Benifits: https://todoist.com/productivity-methods/pomodoro-technique
+Pomodoro Technique Benifits: https://todoist.com/productivity-methods/pomodoro-technique  
 Inspiration: https://pomofocus.io
